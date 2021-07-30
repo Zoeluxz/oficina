@@ -1,0 +1,35 @@
+h1{
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: lighter;
+}
+
+small{
+    font-size: 15px;
+    font-family: serif;
+}
+
+p{
+    font-size: 15px;
+    font-family: monospace;
+    font-weight: bold;
+
+
+}
+
+footer{
+    font-size: 13px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+header,section,footer,aside,nav,article,hgroup{
+    border: 2px solid black ;
+    display: block;
+}
+body{
+    text-align: center;
+}
+
+
+
